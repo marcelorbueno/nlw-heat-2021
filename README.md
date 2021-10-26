@@ -1,4 +1,4 @@
-# NLW Backend
+# NLW Heat 2021
 
 Repositório que contém os códigos da aplicação construída durante o NLW Heat 2021.
 
