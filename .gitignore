@@ -1,0 +1,11 @@
+# Backend
+backend/node_modules
+backend/.env
+backend/prisma/*.db
+
+# Web
+web/node_modules
+web/.DS_Store
+web/dist
+web/dist-ssr
+web/*.local
