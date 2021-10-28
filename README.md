@@ -9,8 +9,8 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/marcelorbueno/NLW Heat 2021" />
+  <a href="https://github.com/marcelorbueno/nlw-heat-2021/blob/main/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://camo.githubusercontent.com/408116b648180becb83ae93945100c71de70f661b61f1b637bc69401972108b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d79656c6c6f772e737667" />
   </a>
   <a href="https://twitter.com/marcelorezbueno" target="_blank">
     <img alt="Twitter: marcelorezbueno" src="https://img.shields.io/twitter/follow/marcelorezbueno.svg?style=social" />
