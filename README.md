@@ -88,8 +88,10 @@ $ cd ../backend
 
 # Install dependencies
 $ yarn dev
-
 ```
+
+- Run in:\
+  <http://localhost:3000>
 
 ## Run tests
 
